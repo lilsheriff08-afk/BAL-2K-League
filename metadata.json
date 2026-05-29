@@ -1,0 +1,6 @@
+{
+  "name": "BAL 2K League",
+  "description": "A sports application for the Basketball Africa League gaming experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
