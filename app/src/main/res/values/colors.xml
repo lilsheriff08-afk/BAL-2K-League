@@ -1,0 +1,7 @@
+<resources>
+    <color name="bal_yellow">#EABB23</color>
+    <color name="bal_green">#009639</color>
+    <color name="bal_red">#ED1C24</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
